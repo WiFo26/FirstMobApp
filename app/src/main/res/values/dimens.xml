@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="altoLogoPlatzi">45dp</dimen>
+    <dimen name="altoToolbarLogo">30dp</dimen>
+    <dimen name="radiusCardView">4dp</dimen>
+    <dimen name="altoImageViewHome">150dp</dimen>
+    <dimen name="tamanoTitulo">20sp</dimen>
+    <dimen name="marginHomeSub">10dp</dimen>
+    <dimen name="tamanoParraf">15sp</dimen>
+    <dimen name="tamanoItemSchduleHour">30sp</dimen>
+    <dimen name="tamanoItemSchduleAMPM">20sp</dimen>
+    <dimen name="tamanoItemSchduleTitleConf">20sp</dimen>
+    <dimen name="tamanoItemSchduleNameExp">15sp</dimen>
+</resources>

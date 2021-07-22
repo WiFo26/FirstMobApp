@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlatziConf</string>
+    <string name="inicio_frag_tv_que_es">What is PlatziConf?</string>
+</resources>
